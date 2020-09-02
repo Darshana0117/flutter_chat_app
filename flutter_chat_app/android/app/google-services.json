@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "944670309616",
+    "firebase_url": "https://chatproject-91367.firebaseio.com",
+    "project_id": "chatproject-91367",
+    "storage_bucket": "chatproject-91367.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944670309616:android:c5ac47678e707141529635",
+        "android_client_info": {
+          "package_name": "com.darshana.flutterchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944670309616-ojefjo1eu4ptkacvpudgj7ml550tjscm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ew0_egrQXzpxUeB_WI4b0_2jqVIpy4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944670309616-ojefjo1eu4ptkacvpudgj7ml550tjscm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
